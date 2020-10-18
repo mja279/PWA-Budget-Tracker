@@ -1,14 +1,14 @@
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  '/favorites.html',
-  '/topic.html',
+  "/assets/js/index.js",
+  "/assets/js/db.js",
   '/assets/css/style.css',
-  '/dist/app.bundle.js',
-  '/dist/favorites.bundle.js',
-  '/dist/topic.bundle.js',
-  'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
+  "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
   'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
+  "/manifest.webmanifest",
+  "/assets/images/icons/icon-192x192.png",
+  "/assets/images/icons/icon-512x512.png"
 ];
 
 const PRECACHE = 'precache-v1';
