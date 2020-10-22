@@ -1,6 +1,6 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
-<img src="./assets/images/budget-tracker.gif">
+<img src="./public/assets/images/budget-tracker.gif">
 
 This Budget Tracker application allows users to keep track while online and offline. The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the app will populate the total when brought back online.
 
